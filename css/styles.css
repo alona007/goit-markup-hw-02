@@ -79,22 +79,19 @@ ul {
 }
 
 .first-button {
-  color: #fff;
-  font-size: 16px;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
-  font-style: normal;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-}
-
-.button {
-  background: #4d5ae5;
   cursor: pointer;
+  font-style: normal;
 }
 
-.button:hover,
-.button:focus {
+.first-button:hover,
+.first-button:focus {
   background-color: #404bbf;
 }
 

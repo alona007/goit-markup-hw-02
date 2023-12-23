@@ -81,7 +81,7 @@ ul {
 .first-button {
   color: #fff;
   font-size: 16px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -91,6 +91,11 @@ ul {
 .first-button {
   background: #4d5ae5;
   cursor: pointer;
+}
+
+.first-button:hover,
+.first-button:focus {
+  background-color: #404bbf;
 }
 
 .second-section {

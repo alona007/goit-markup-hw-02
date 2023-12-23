@@ -50,7 +50,8 @@ ul {
 .address {
   font-style: normal;
 }
-.address-mail-link {
+
+.address-item-mail {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -63,7 +64,7 @@ ul {
   color: #404bbf;
 }
 
-.address-phone-link {
+.address-item-phone {
   color: #434455;
   font-size: 16px;
   font-weight: 400;

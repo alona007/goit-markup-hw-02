@@ -50,7 +50,6 @@ ul {
 .address {
   font-style: normal;
 }
-
 .address-mail-link {
   color: #434455;
   font-size: 16px;
@@ -58,8 +57,9 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-mail-link :hover,
-.address-mail-link :focus {
+
+.address-mail-link:hover,
+.address-mail-link:focus {
   color: #404bbf;
 }
 
@@ -70,10 +70,11 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-phone-link :hover,
-.address-phone-link :focus {
+.address-phone-link:hover,
+.address-phone-link:focus {
   color: #404bbf;
 }
+
 .first-section {
   background: #2e2f42;
 }

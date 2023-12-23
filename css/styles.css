@@ -36,7 +36,6 @@ ul {
 
 .header-menu-link {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -50,7 +49,6 @@ ul {
 
 .address {
   font-style: normal;
-  font-family: Roboto sans-serif;
 }
 
 .address-link {
@@ -72,7 +70,6 @@ ul {
 .title-first-section {
   color: #fff;
   text-align: center;
-  font-family: Roboto sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -82,8 +79,8 @@ ul {
 
 .first-button {
   color: #fff;
-  font-family: Roboto sans-serif;
   font-size: 16px;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -106,7 +103,6 @@ ul {
 
 .title-section-strategy {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -116,7 +112,6 @@ ul {
 
 .text-title-section-strategy {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -125,7 +120,6 @@ ul {
 }
 .title-section-punctuality {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -135,7 +129,6 @@ ul {
 
 .text-title-section-strategy-punctuality {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -144,7 +137,6 @@ ul {
 }
 .title-section-diligence {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -154,7 +146,6 @@ ul {
 
 .text-title-section-strategy-diligence {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -164,7 +155,6 @@ ul {
 
 .title-section-technologies {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -174,7 +164,6 @@ ul {
 
 .text-title-section-strategy-technologies {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -187,7 +176,6 @@ ul {
 .title-third-section {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto sans-serif;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -201,7 +189,6 @@ ul {
 }
 .title-section-mark {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -210,7 +197,6 @@ ul {
 }
 .text-title-section {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -219,7 +205,6 @@ ul {
 }
 .title-section-tom {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -228,7 +213,6 @@ ul {
 }
 .text-title-section {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -237,7 +221,6 @@ ul {
 }
 .title-section-camila {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -246,7 +229,6 @@ ul {
 }
 .text-title-section {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -255,7 +237,6 @@ ul {
 }
 .title-section-daniel {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -264,7 +245,6 @@ ul {
 }
 .text-title-section {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -276,7 +256,6 @@ ul {
 .title-fourth-section {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto sans-serif;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -286,7 +265,6 @@ ul {
 }
 .title-section {
   color: #2e2f42;
-  font-family: Roboto sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -296,7 +274,6 @@ ul {
 
 .text-title-section {
   color: #434455;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -307,19 +284,10 @@ ul {
 .footer {
   background: #2e2f42;
 }
-.header-logo {
-  color: #4d5ae5;
-  font-family: Raleway sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
+
 .footer-studio {
   color: #f4f4fd;
-  font-family: Raleway sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -329,7 +297,6 @@ ul {
 }
 .text-footer {
   color: #f4f4fd;
-  font-family: Roboto sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;

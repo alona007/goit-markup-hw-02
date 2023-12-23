@@ -51,7 +51,7 @@ ul {
   font-style: normal;
 }
 
-.address-link {
+.address-mail-link {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -63,6 +63,13 @@ ul {
   color: #404bbf;
 }
 
+.address-phone-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 .address-phone-link :hover,
 .address-phone-link :focus {
   color: #404bbf;

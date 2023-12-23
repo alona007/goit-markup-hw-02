@@ -107,7 +107,7 @@ ul {
 .list-item {
 }
 
-.title-section-strategy {
+.title-section {
   color: #2e2f42;
   font-size: 20px;
   font-style: normal;
@@ -116,59 +116,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.text-title-section-strategy {
-  color: #434455;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-section-punctuality {
-  color: #2e2f42;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
-.text-title-section-strategy-punctuality {
-  color: #434455;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-section-diligence {
-  color: #2e2f42;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
-.text-title-section-strategy-diligence {
-  color: #434455;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.title-section-technologies {
-  color: #2e2f42;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
-.text-title-section-strategy-technologies {
+.text-title-section {
   color: #434455;
   font-size: 16px;
   font-style: normal;

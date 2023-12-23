@@ -58,11 +58,15 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-link :hover,
-.address-link :focus {
+.address-mail-link :hover,
+.address-mail-link :focus {
   color: #404bbf;
 }
 
+.address-phone-link :hover,
+.address-phone-link :focus {
+  color: #404bbf;
+}
 .first-section {
   background: #2e2f42;
 }

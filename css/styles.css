@@ -64,18 +64,6 @@ ul {
   color: #404bbf;
 }
 
-.address-link {
-  color: #434455;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.address-link:hover,
-.address-link:focus {
-  color: #404bbf;
-}
-
 .first-section {
   background: #2e2f42;
 }

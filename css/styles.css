@@ -88,13 +88,13 @@ ul {
   letter-spacing: 0.04em;
 }
 
-.first-button {
+.button {
   background: #4d5ae5;
   cursor: pointer;
 }
 
-.first-button:hover,
-.first-button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
